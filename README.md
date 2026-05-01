@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Idan</h1>
-<h3 align="center">Experienced Frontend Developer</h3>
+<h3 align="center">Senior Frontend Developer</h3>
 
 - 📫 How to reach me **idanatiya122@gmail.com**
 
